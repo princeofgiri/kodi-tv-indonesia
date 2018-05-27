@@ -1,82 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/gtv.png",GLOBAL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/gtv.png",GLOBAL TV
 https://cdn-livetv1.metube.id/hls/globaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/rcti.png",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/rcti.png",RCTI
 https://cdn-livetv1.metube.id/hls/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mnctv.png",MNC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mnctv.png",MNC TV
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/net.png",NET TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/net.png",NET TV
 https://youtu.be/cE71bYTzAks
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/sctv.png",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/sctv.png",SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/indosiar.png",Indosiar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/indosiar.png",Indosiar
 https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/trans7.png",Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/trans7.png",Trans 7
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/trans7.png",Trans 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/trans7.png",Trans 7 HD
 https://wowzaprodhd37-lh.akamaihd.net/i/79a12936_1@443509/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/transtv.png",Trans TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/transtv.png",Trans TV
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/antv.png",ANTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/antv.png",ANTV 
 https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/rtv.png",Rajawali TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/rtv.png",Rajawali TV
 https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/jaktv.png",JakTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/jaktv.png",JakTV
 https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/ochannel.png",OChannel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/ochannel.png",OChannel
 https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mnccomedy.png",Comedy Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mnccomedy.png",Comedy Channel
 https://cdn-livetv1.metube.id/hls/comedy.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncsport.png",MNC Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncsport.png",MNC Sport
 https://cdn-livetv1.metube.id/hls/mncsport.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncmovie.png",Movie Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncmovie.png",Movie Channel
 https://cdn-livetv1.metube.id/hls/mncmovie.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncentertainment.png",MNC Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncentertainment.png",MNC Entertainment
 https://cdn-livetv1.metube.id/hls/mncentertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mnclifestyle.png" ,MNC Life Style
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mnclifestyle.png" ,MNC Life Style
 https://cdn-livetv1.metube.id/hls/mnclifestyle.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncmusic.png",Music Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncmusic.png",Music Channel
 https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncfoodtravel.png",Food & Travel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncfoodtravel.png",Food & Travel
 https://cdn-livetv1.metube.id/hls/foodtravel.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncautogadget.png",Auto & Gadget
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncautogadget.png",Auto & Gadget
 https://cdn-livetv1.metube.id/hls/autogadget.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/tvone.png",TV One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/tvone.png",TV One
 https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/kompastv.png",Kompas TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/kompastv.png",Kompas TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/tvri.png",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/tvri.png",TVRI Nasional
 https://cdn-livetv1.metube.id/hls/tvri.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/metrotv.png",Metro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/metrotv.png",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/mncnews.png" ,MNC News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mncnews.png" ,MNC News
 https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/cnnindonesia.png",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/cnnindonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
