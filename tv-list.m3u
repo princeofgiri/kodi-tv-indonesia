@@ -9,8 +9,8 @@ https://cdn-livetv1.metube.id/hls/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/mnctv.png",MNC TV
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/net.png",NET TV
-https://youtu.be/cE71bYTzAks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/net.png",NET TV HD
+http://streaming.ridon.id:8080/index.m3u8?id=cE71bYTzAks&q=1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/sctv.png",SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
@@ -80,3 +80,15 @@ https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/cnnindonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/makkah.png",Makkah Live 1
+http://streaming.ridon.id:8080/index.m3u8?id=gP-8-zk3b-I&q=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/makkah.png",Makkah Live 2
+http://streaming.ridon.id:8080/index.m3u8?id=ICceoSu3Ry4&q=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/makkah.png",Makkah Live 3
+http://streaming.ridon.id:8080/index.m3u8?id=EN1DxCkq_Og&q=1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/princeofgiri/kodi-tv-indonesia/master/assets/madinah.png",Madinah Live 1
+http://streaming.ridon.id:8080/index.m3u8?id=uDHUpm60u2o&q=1
